@@ -22,7 +22,8 @@
 ## 字符串
 [003_无重复字符的最长子串](https://www.ixigua.com/7049728353875526181?logTag=b43eec7cdc3abd80a5a5)\
 [008_最长回文串_动态规划](https://www.ixigua.com/7051196710856589860?logTag=77093aec1c909be1e1e5)\
-[008_最长回文串_中心扩展](https://www.ixigua.com/7051197994921624094?logTag=fd718013550995bce206)\
+[008_最长回文串_中心扩展](https://www.ixigua.com/7051197994921624094?logTag=fd718013550995bce206)
+
 # 交流学习
 
 ![算法交流群](./images/算法交流群.jpeg)
