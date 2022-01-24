@@ -48,4 +48,4 @@
 
 # 交流学习
 
-![算法交流群](https://riverli.oss-cn-beijing.aliyuncs.com/b/wx.jpeg)
+ <img src="https://riverli.oss-cn-beijing.aliyuncs.com/b/wx.jpeg" width = "200" alt="算法交流群" align=center />
